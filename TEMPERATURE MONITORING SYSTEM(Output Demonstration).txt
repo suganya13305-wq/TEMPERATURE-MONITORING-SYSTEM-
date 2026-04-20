@@ -1,0 +1,11 @@
+Output Demonstration: 
+
+Serial Monitor Output:
+
+Temperature: 29.45 C
+Temperature: 29.60 C
+Temperature: 29.70 C
+LCD Display Output
+
+Temp: 29.45 C
+The temperature updates every 1 second.
